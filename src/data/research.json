@@ -1,0 +1,21 @@
+[
+    {
+        "role":"Research Assistant",
+        "organization":"University at Buffalo",
+        "startDate":"Jun 2024",
+        "endDate":"Present",
+        "experiences":["Working on developing Sharpness Aware Minimization optimization to be memory efficient for LLMs and Multi-task learning ",
+        "Reduced the number of parameters required to perform SAM using idea of Low Rank Matrices"],
+        "imageSrc":"history/UB.jpg"
+    },
+    {
+        "role":"Teaching Assistant (CSE 4/576)",
+        "organization":"University at Buffalo",
+        "startDate":"Aug 2024",
+        "endDate":"Present",
+        "experiences":["Working as a Teaching and Grading assistant for Data Intensive Computing Course",
+        "Responsible for personalized support and assistance to students",
+        "Ensuring timely feedback and evaluation of student performance"],
+        "imageSrc":"history/UB.jpg"
+    }
+]

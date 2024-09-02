@@ -1,0 +1,8 @@
+[
+    {
+        "title":"Deep Learning based forest fire detection and alert system",
+        "paperLink":"https://ieeexplore.ieee.org/document/9767911",
+        "description":["Research project on building and training Deep Convolutional Network to accurately predict forest fires",
+    "Established a SMTP communication mechanism to send timely email alerts to the governed authorities."]
+    }
+]

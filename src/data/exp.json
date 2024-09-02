@@ -1,0 +1,11 @@
+[
+    {
+        "role":"Software Engineer Intern",
+        "organization":"CodeStax.Ai",
+        "startDate":"Mar 2023",
+        "endDate":"Jul 2023",
+        "experiences":["Worked on building custom furniture application",
+        "Helped the team in developing back-end, integrated APIs across 16 different customization screens"],
+        "imageSrc":"history/codestax.jpg"
+    }
+]

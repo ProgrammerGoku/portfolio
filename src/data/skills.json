@@ -1,0 +1,83 @@
+[
+    {
+        "skill":"HTML",
+        "imageSrc":"skills/html.png"
+
+    },
+    {
+        "skill":"CSS",
+        "imageSrc":"skills/css.png"
+
+    },
+    {
+        "skill":"React",
+        "imageSrc":"skills/react.png"
+
+    },
+    {
+        "skill":"Vue",
+        "imageSrc":"skills/vue.png"
+
+    },
+    {
+        "skill":"Node",
+        "imageSrc":"skills/node.png"
+
+    },
+    {
+        "skill":"Python",
+        "imageSrc":"skills/python.png"
+
+    },
+    {
+        "skill":"Flask",
+        "imageSrc":"skills/flask.png"
+
+    },
+    {
+        "skill":"Unix/Linux",
+        "imageSrc":"skills/unix.png"
+
+    },
+    {
+        "skill":"MongoDB",
+        "imageSrc":"skills/mongodb.png"
+
+    },
+    {
+        "skill":"Pytorch",
+        "imageSrc":"skills/torch.png"
+
+    },
+
+    {
+        "skill":"NLP/LLMs",
+        "imageSrc":"skills/nlp.png"
+
+    },
+    {
+        "skill":"ML optimization",
+        "imageSrc":"skills/mloptim.png"
+
+    },
+    {
+        "skill":"NPM",
+        "imageSrc":"skills/npm.png"
+
+    },
+    {
+        "skill":"Figma",
+        "imageSrc":"skills/figma.png"
+
+    },
+    {
+        "skill":"Hadoop",
+        "imageSrc":"skills/hadoop.png"
+
+    },
+    {
+        "skill":"Apache spark",
+        "imageSrc":"skills/spark.png"
+
+    }
+]

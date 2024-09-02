@@ -1,0 +1,32 @@
+[
+    {
+        "title":"BERT-LSTM-CNN based Fake News detection and classification",
+        "description":"Project that focuses on detecting fake news articles using FakeNewsNet and LIAR Dataset containing 17,441 real and 11,424 fake news",
+        "date":"Jan 2024",
+        "imgSrc":"projects/bert.png"
+    },
+    {
+        "title":"Industrial PPE detection using Computer Vision",
+        "description":"Leveraging Computer Vision to accurately predict PPE worn/not-worn by industry workers,and developed live video prediction compatible with industry CCTV systems",
+        "date":"Nov 2023",
+        "imgSrc":"projects/ppe.jpg"
+    },
+    {
+        "title":"AlphaNumPredictor",
+        "description":"Build and trained a optimized deep Convolutional Neural Network (CNN) using Pytorch on the EMNIST dataset, achieving an impressive 92% test accuracy across 36 classes",
+        "date":"Oct 2023",
+        "imgSrc":"projects/alphanum.png"
+    },
+    {
+        "title":"Transformers for Dense Video Captioning of Soccer Videos",
+        "description":"Fine-tuned CLIP model for dense video captioning using Soccer-net dataset",
+        "date":"Jan 2024",
+        "imgSrc":"projects/videocap.jpg"
+    },
+    {
+        "title":"Autoencoder based Joint Source Channel Coding for Wireless transmission",
+        "description":"Autoencoder based Communication system for data transmission on wireless channel models(AWGN, Rayleigh fading)",
+        "date":"Mar 2023",
+        "imgSrc":"projects/autoencoder.jpg"
+    }
+]
