@@ -5,7 +5,7 @@ import { getImageUrl } from "../../utils";
 export const Navbar=()=>{
     const [menuOpen,setMenuOpen]=useState(false);
     return <nav className={styles.navbar}>
-            <a className={styles.title} href='/'>
+            <a className={styles.title} href='/portfolio/'>
             Portfolio
             </a>
         <div className={styles.menu}> 
