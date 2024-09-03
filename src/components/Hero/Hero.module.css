@@ -124,6 +124,10 @@
     .title{
         text-align: center;
     }
+    .topBlur{
+        left:0vw;
+        height:0vw;
+    }
 
 
 }
