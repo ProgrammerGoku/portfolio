@@ -76,6 +76,11 @@
 
     },
     {
+        "skill":"CUDA",
+        "imageSrc":"skills/cuda.png"
+
+    },
+    {
         "skill":"Apache spark",
         "imageSrc":"skills/spark.png"
 
