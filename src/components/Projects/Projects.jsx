@@ -6,7 +6,9 @@ export const Projects=()=>{
     return <div className={styles.container} id="proj">
         <h1>PROJECTS</h1>
         <div className={styles.projects}>{
-            projects.map((projItem,id)=>{
+            projects
+            .sort((a,b)=> new Date(b.date)-new Date(a.date))
+            .map((projItem,id)=>{
                 return(<div className={styles.imgTextWrap}>
                     <div className={styles.imgWrapper}>
                         <img className={styles.img} src={getImageUrl(projItem.imgSrc)} alt="" />

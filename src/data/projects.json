@@ -28,5 +28,11 @@
         "description":"Autoencoder based Communication system for data transmission on wireless channel models(AWGN, Rayleigh fading)",
         "date":"Mar 2023",
         "imgSrc":"projects/autoencoder.jpg"
+    },
+    {
+        "title":"Predictive Model for Airline Fare Forecasting Using Ensemble Technique",
+        "description":"The main objective of this project is to address issue of dynamic airline pricing by developing a predictive model and accurately forecasting different airline ticket prices to equip passengers with the information they need to plan their trips more efficiently",
+        "date":"Jan 2024",
+        "imgSrc":"projects/airplaneprice.png"
     }
 ]
