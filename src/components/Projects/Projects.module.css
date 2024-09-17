@@ -67,5 +67,11 @@
     .imgTextWrap{
         width:100%;
     }
+    .text h3{
+        font-size: 15px;
+    }
+    .text p{
+        font-size: 15px;
+    }
     
 }
