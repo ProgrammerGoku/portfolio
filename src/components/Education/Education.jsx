@@ -17,7 +17,10 @@ export const Education=()=>{
         iconStyle={{ background: 'linear-gradient(180deg,#576cbc 0%,#132a53)', color: '#fff'}}
         icon={<FaGraduationCap/>}>
         <h2 style={{color:'white',fontSize:'25px'}}>University at Buffalo, State University of New York</h2>
-        <h3 style={{fontSize:'20px',fontWeight:'400'}}>Master of Science(Honors) in Computer Science and Engineering</h3>
+        <h3 style={{fontSize:'20px',fontWeight:'400'}}>Master of Science(Honors) in Computer Science and Engineering</h3><br />
+        <h4 style={{fontSize:'12px',fontWeight:'300'}}><i>Coursework: Machine Learning, Deep Learning, Computer Vision and Image processing, Computer Security, Data Intensive Computing,
+          Sports Video Analytics, Computer Architecture</i> 
+        </h4>
         <p style={{fontSize:'20px',fontWeight:'600'}}>GPA 4.0/4.0
         </p>
       </VerticalTimelineElement>
