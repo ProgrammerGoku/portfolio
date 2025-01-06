@@ -34,7 +34,7 @@ export const About=()=>{
                     </div>
                 </div>
                 <div className={styles.button}>
-                    <a href="https://drive.google.com/file/d/1fZrr9QxF9c7v2jrAQrkyo2VcGO6xwZD1/view">
+                    <a href="https://drive.google.com/file/d/1mM9pQCwHHnLhi2m5dCvfjEOZaZq2Uym4/view?usp=sharing">
                     <h3>Resume</h3></a>
                 </div>
             </div>
