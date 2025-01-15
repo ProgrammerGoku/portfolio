@@ -1,5 +1,12 @@
 [
     {
+        "title":"AI powered Collaborative Workspace(Hackathon Project)",
+        "description":"Developed an AI-powered collaborative hub for BCAT company, integrating Google Workspace to streamline cross-departmental communication and resource sharing",
+        "date":"Sept 2024",
+        "imgSrc":"projects/bcat.jpg"
+
+    },
+    {
         "title":"BERT-LSTM-CNN based Fake News detection and classification",
         "description":"Project that focuses on detecting fake news articles using FakeNewsNet and LIAR Dataset containing 17,441 real and 11,424 fake news",
         "date":"Jan 2024",
@@ -22,12 +29,6 @@
         "description":"Fine-tuned CLIP model for dense video captioning using Soccer-net dataset",
         "date":"Jan 2024",
         "imgSrc":"projects/videocap.jpg"
-    },
-    {
-        "title":"Autoencoder based Joint Source Channel Coding for Wireless transmission",
-        "description":"Autoencoder based Communication system for data transmission on wireless channel models(AWGN, Rayleigh fading)",
-        "date":"Mar 2023",
-        "imgSrc":"projects/autoencoder.jpg"
     },
     {
         "title":"Predictive Model for Airline Fare Forecasting Using Ensemble Technique",
